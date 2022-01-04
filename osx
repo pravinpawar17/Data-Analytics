@@ -1,0 +1,13 @@
+Step 1 : import pandas and numpy library for basic operation also import matplotlib,seaborn for some visualization.
+Step 2 : read csv file using pandas library and create dataframe.
+Step 3 : do clean data.
+Step 4: start EDA process.
+       > in EDA first show major crime using rcParam, Y axis is count and X axis is category.
+       > than count of crimes of using department_district column.
+       > than count top 10 region in crime using address column.
+       > show resolution of crime
+       > and show total crime in month wise 
+       > checking the time at which crime occurs mostly in each date and time  using crime_date column.
+       > count toatal value in area wise 
+       > in last generate map using longitude and latitude.
+
